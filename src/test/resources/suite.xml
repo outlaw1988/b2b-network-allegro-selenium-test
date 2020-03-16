@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Allegro tests" verbose="1">
+
+    <test name="allegro-tests">
+        <classes>
+            <class name="tests.Searching"/>
+        </classes>
+    </test>
+
+</suite>
